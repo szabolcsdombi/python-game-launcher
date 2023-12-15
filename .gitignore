@@ -1,0 +1,12 @@
+.vscode
+python
+build
+dist
+
+__pycache__
+*.egg-info
+*.ico
+*.exe
+*.pyc
+*.pyd
+*.so
